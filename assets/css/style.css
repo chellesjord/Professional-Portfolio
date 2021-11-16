@@ -111,7 +111,7 @@ section {
 .hero-cta h2 {
     font-style: bold;
     font-size: 55px;
-    color:var(--primary-color);
+    color:var(--secondary-color);
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -132,7 +132,7 @@ section {
 
 .section-title {
     font-size: 55px;
-    color: var(--primary-color);
+    color: var(--tertiary-color);
     border-bottom: 3px solid;
     padding-bottom: 20px;
     text-align: center;
